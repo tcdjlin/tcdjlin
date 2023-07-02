@@ -33,6 +33,8 @@
 
 * 💼 Participated in the development of one of the most extensively used Industrial 4.0 solutions in Taiwan&apos;s AI-driven Industrial Automation landscape.
 
+* 💼 Co-manages a freelance development business - [JAStudio Technology](https://jastudio-tech.com/)
+
 ### 🖥️ Personal Projects & Achievements
 * [Explore my Projects & Achievements](https://tclin.jastudio-tech.com/#portfolio)
 
