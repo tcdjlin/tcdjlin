@@ -25,9 +25,9 @@
 
 </p>
 
-* 🎓 Master in Computer Science @ [Queensland University of Technology (QUT)](https://www.qut.edu.au/)
+* 🎓 Master in Computer Science - [Queensland University of Technology (QUT)](https://www.qut.edu.au/)
 
-* 🎓 Bachelor of Science @ [The University of Queensland (UQ)](https://www.uq.edu.au/)
+* 🎓 Bachelor of Science - [The University of Queensland (UQ)](https://www.uq.edu.au/)
 
 * 💼 Developed large complex ERP systems for Taiwan&apos;s Central Government.
 
