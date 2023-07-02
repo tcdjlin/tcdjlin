@@ -2,8 +2,9 @@
 ```md
 ![TC. Lin](https://github-readme-stats.vercel.app/api?username=andrewtclin&show_icons=true&hide=contribs,issues&theme=dracula&custom_title=Hi.&nbsp;I&nbsp;am&nbsp;TC&nbsp;Lin.&include_all_commits=true)
 ```
-    ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
+```md
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews)
 ```
 <br/>
 
