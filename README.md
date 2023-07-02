@@ -1,8 +1,8 @@
 <p align="center">
 ```md
 ![TC. Lin](https://github-readme-stats.vercel.app/api?username=andrewtclin&show_icons=true&hide=contribs,issues&theme=dracula&custom_title=Hi.&nbsp;I&nbsp;am&nbsp;TC&nbsp;Lin.&include_all_commits=true)
-<br/>
 ```
+<br/>
 
 <a href="https://tclin.jastudio-tech.com/">
     <img src="https://img.shields.io/badge/Website-Personal&nbsp;Page-red?style=flat-square">
