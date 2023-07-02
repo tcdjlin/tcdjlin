@@ -4,16 +4,16 @@
 
 <br/>
 
-<a href="https://tclin.jastudio-tech.com/">
+<a href="https://tclin.jastudio-tech.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Personal&nbsp;Page-red?style=flat-square">
 </a>  
-<a href="https://jastudio-tech.com/">
+<a href="https://jastudio-tech.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-JAStudio&nbsp;Technology&nbsp;-red?style=flat-square">
 </a>  
-<a href="https://www.linkedin.com/in/andrewtclin/">
+<a href="https://www.linkedin.com/in/andrewtclin/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="https://tclin.jastudio-tech.com/static/media/cv.9a1cf81b5425251f13ea.pdf">
+<a href="https://tclin.jastudio-tech.com/static/media/cv.9a1cf81b5425251f13ea.pdf" target="_blank">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="mailto:chuntcdj@gmail.com">
