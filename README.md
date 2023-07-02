@@ -1,7 +1,7 @@
 <p align="center">
 ![TC. Lin](https://github-readme-stats.vercel.app/api?username=andrewtclin&show_icons=true&hide=contribs,issues&theme=dracula&custom_title=Hi.&nbsp;I&nbsp;am&nbsp;TC&nbsp;Lin.&include_all_commits=true)
 <br />
-<a href="https://github.com/drkostas">
+<a href="https://github.com/andrewtclin">
     <img src="https://readme-typing-svg.demolab.com?font=Belanosima&size=18&duration=2000&pause=100&multiline=true&repeat=false&color=000000C2&weight=900&width=500&height=80&lines=Ta-Chun(TC)+Lin;Software&nbsp;Engineering+%7C+Machine&nbsp;Learning" alt="Typing SVG" />
 </a>
 <br/>
