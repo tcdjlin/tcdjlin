@@ -25,13 +25,15 @@
 
 </p>
 
-* 🎓 Master in Computer Science - [Queensland University of Technology (QUT)](https://www.qut.edu.au/)
+* 🎓 Master of Computer Science - [Queensland University of Technology (QUT)](https://www.qut.edu.au/)
 
 * 🎓 Bachelor of Science - [The University of Queensland (UQ)](https://www.uq.edu.au/)
 
-* 💼 Developed large complex ERP systems for Taiwan&apos;s Central Government.
+* 💼 Expertise is rooted in building ML models with robust Software.
 
 * 💼 Participated in the development of one of the most extensively used Industrial 4.0 solutions in Taiwan&apos;s AI-driven Industrial Automation landscape.
+
+* 💼 Developed large complex ERP systems for Taiwan&apos;s Central Government.
 
 * 💼 Co-manages a freelance development business - [JAStudio Technology](https://jastudio-tech.com/)
 
