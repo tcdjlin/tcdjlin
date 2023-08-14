@@ -29,7 +29,7 @@
 
 * 🎓 Bachelor of Science - [The University of Queensland (UQ)](https://www.uq.edu.au/)
 
-* 💼 Expertise rooted in building ML models with robust Software.
+* 💼 Expertise rooted in building ML models with robust software.
 
 * 💼 Participated in the development of one of the most extensively used Industrial 4.0 solutions in Taiwan&apos;s AI-driven Industrial Automation landscape.
 
