@@ -35,7 +35,7 @@
 
 * 💼 Developed large complex ERP systems for Taiwan&apos;s Central Government.
 
-* 💼 Co-manages a freelance development business - [JAStudio Technology](https://jastudio-tech.com/)
+* 💼 Co-manages a freelance software business - [JAStudio Technology](https://jastudio-tech.com/)
 
 ### 🖥️ Personal Projects & Achievements
 * [Explore my Projects & Achievements](https://tclin.jastudio-tech.com/#portfolio)
