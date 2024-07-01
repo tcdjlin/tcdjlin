@@ -10,7 +10,7 @@
 <a href="https://medium.com/@chuntcdj" target="_blank">
     <img src="https://img.shields.io/badge/Website-Medium&nbsp;Blog-red?style=flat-square">
 </a>  
-<a href="https://www.linkedin.com/in/andrewtclin/" target="_blank">
+<a href="https://www.linkedin.com/in/lintachun/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="https://tclin.jastudio-tech.com/static/media/cv.9a1cf81b5425251f13ea.pdf" target="_blank">
