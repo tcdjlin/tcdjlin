@@ -1,6 +1,6 @@
 <p align="center">
 
-![TC. Lin](https://github-readme-stats.vercel.app/api?username=andrewtclin&show_icons=true&hide=contribs,issues&theme=dracula&custom_title=Hi.&nbsp;I&nbsp;am&nbsp;TC&nbsp;Lin.&include_all_commits=true)
+![TC. Lin](https://github-readme-stats.vercel.app/api?username=tcdjlin&show_icons=true&hide=contribs,issues&theme=dracula&custom_title=Hi.&nbsp;I&nbsp;am&nbsp;TC&nbsp;Lin.&include_all_commits=true)
 
 <br/>
 
